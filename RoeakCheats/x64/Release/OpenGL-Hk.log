@@ -1,0 +1,8 @@
+﻿LINK : warning LNK4098: defaultlib 'LIBCMT' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+LINK : warning LNK4098: defaultlib 'LIBCMTD' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+  Kod üretiliyor
+  0 of 742 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  OpenGL-Hk.vcxproj -> C:\Users\roeak1337xd02\Desktop\masaüstü\opengl\x64\Release\RoeakCheats.dll
